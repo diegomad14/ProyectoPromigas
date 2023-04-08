@@ -13,3 +13,5 @@ if __name__ == '__main__':
     GUI = Caja()
     GUI.show()
     sys.exit(app.exec_())
+
+print("hola")
